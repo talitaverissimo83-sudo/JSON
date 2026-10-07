@@ -1,0 +1,10 @@
+{
+     "aluno": {
+    "nome": "Talita",
+    "idade": 17,
+    "notas": [8, 9, 9],
+    "aprovado": true
+  }
+
+}
+
